@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hello 👋 Here is some Info About Me
+## Hello 👋 Here is some Info About Me
 - Hi 👋 I'm Valdemarkid, Im 15 Years Old and Currently Studying in Programming Languages, Im Also Currently The current Owner of Polo Where we include alot of free Programming Tools Which Can be used to alot of stuff
 -->
 
